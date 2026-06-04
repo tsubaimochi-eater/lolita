@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+body {
+    color: rgba(243, 236, 227, 0.941);
+    font-family: "LINE Seed JP", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    background-image:
+    linear-gradient(90deg, rgba(41, 2, 17, 0.708) 50%, transparent 50%),
+    url("nightview.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    width: calc(50% - 25px);
+
+
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 2;
+    text-align: center;
+
+}
+
+
+table {
+    margin: auto;
+    width: 400px;    
+}
+
+
+.InnocentWorld,
+.BABYTHESTARSSHINEBRIGHT,
+.AngelicPretty,
+.MIHOMATSUDA,
+.Victorianmaiden,
+.MaryMagdalane,
+.JulietteetJustine,
+.Moi-meme-Moitie {color: #b4647deb;}
+
+
+
+.InnocentWorld:hover,
+.BABYTHESTARSSHINEBRIGHT:hover,
+.AngelicPretty:hover,
+.MIHOMATSUDA:hover,
+.Victorianmaiden:hover,
+.MaryMagdalane:hover,
+.JulietteetJustine:hover,
+.Moi-meme-Moitie:hover {color: rgba(146, 9, 69, 0.938);}
+
+    
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav a {
+    color: #dda1b2eb;
+    clolist-style: none;
+    padding: 0;
+}
+
+footer a {
+    color: #dda1b2eb;
+    clolist-style: none;
+    padding: 0;
+}
