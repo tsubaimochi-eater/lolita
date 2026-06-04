@@ -34,6 +34,16 @@ table {
     width: 400px;    
 }
 
+table,
+th,
+td {
+    border: 1px solid #e5d2b2c0;
+}
+
+table {border-collapse: collapse;}
+
+
+
 
 .InnocentWorld,
 .BABYTHESTARSSHINEBRIGHT,
