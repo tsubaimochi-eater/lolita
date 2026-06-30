@@ -134,9 +134,11 @@ footer a {
 .link-container {
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
 }
 
 .link-items {
+    display: inline-block;
     color: rgba(243, 236, 227, 0.941);
     text-decoration: none;
     border-bottom: 2px solid transparent;
